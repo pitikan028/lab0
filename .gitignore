@@ -1,3 +1,10 @@
 obj/
 bin/
 .vscode/
+*.dll
+*.exe
+*.pdb
+*.user
+*.cache
+*.suo
+*.log
