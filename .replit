@@ -27,3 +27,6 @@ args = "dotnet run --project simple_crawler.csproj"
 
 [workflows.workflow.metadata]
 outputType = "console"
+
+[deployment]
+deploymentTarget = "cloudrun"
